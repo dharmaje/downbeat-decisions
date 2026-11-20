@@ -1,0 +1,12 @@
+# Local-only assistant files
+CLAUDE.local.md
+.claude/settings.local.json
+
+# macOS
+.DS_Store
+
+# Node and test output
+node_modules/
+test-results/
+playwright-report/
+dist/
